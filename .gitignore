@@ -1,0 +1,20 @@
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+coverage.json
+
+# Env
+.env
+
+# Deployments
+deployments/
+
+# OS
+.DS_Store
